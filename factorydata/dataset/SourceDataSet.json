@@ -1,0 +1,19 @@
+{
+	"name": "SourceDataSet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "Untitled-1.py",
+				"folderPath": "Input",
+				"container": "adfdemo"
+			}
+		}
+	}
+}
