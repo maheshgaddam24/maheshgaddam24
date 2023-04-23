@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maheshgaddam24
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Azure Data Factory
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I’m currently learning Node JS
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 maheshmahigaddam@gmail.com
 
 <!---
